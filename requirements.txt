@@ -1,5 +1,6 @@
 # Requirements.txt
 snowflake-connector-python
 snowflake-snowpark-python
+pandas-python
 streamlit==1.31.1
 requests
